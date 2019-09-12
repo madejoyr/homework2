@@ -24,11 +24,11 @@ img{
   margin-left: auto;
   margin-right: auto;
   width: 550px;
-  /*height: auto;*/
+  height: auto;
 }
 
 div{
-  height: 100px, auto;
+  min-height: 100px;
   padding: 30px;
 }
 
